@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "soldemembre",
+  "private_key_id": "d4a6f64ae23a3402e5b778c70d82ba29cbd87e77",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuGnlebDirybC7\nvqn0auLul9Th9w6/fdY6AlNgmZZLiLqRhHmBH9jwOcPCm3yj0s3/yHj8u7nuKK0k\nvMeT5WUKn9q7ZEsHaqqoxQ3fTYPj5sCpclsT+w/D23/alMszZU/tUBFIGUz2NFQa\ngA/5hrM5zMp98XjDu7o3YfpwIyFCn8ENiMDeB30HNXNhSdpY2244GEZ1YToQRn28\ncdBGaLSwgSmC0ZkIw5GvhR8iuS+p6LPaHpUPc4meJYZNrSZKTSMJzXggUD6QOVV5\nOp+JU7wM/3blCvvi8LzhR+ZDpBpazCB+lCyS0rOKK/XNHi+FjKH7hJCGolW82Lnc\n/fzG5vBNAgMBAAECggEALELUuhl/KsUipggpwtZtjMSSvUOGv03paWPv+G3zVI6V\nB6uLDDWhfCjjSJUo0akk77LydyXudcpngiBwCHxX/KR5AgzUOjV232MBTNSzA/xE\n3I8S8nhwIJWr4lDTe+R0tlsVmaO8+haBjx8hcIk7BSW4EN6TmgcepzfEaD+2E+6H\nbLqlLjkhANQPKni/9ypQL8oJtVLQx2nxTElqmki3qTFOH7D2bREeUnGk+w+cX49y\ndmy/vsij7Rugz62X4pJVx5tyffHMHD59ksMCx6sFFcGFoBZbgExeISrYdmfh/sSO\ngbu6JY4+5QFWHDS0XKRlMh15RZKXmVbZZLAGBHAsDQKBgQDmsi1EPEhsPZeQwCPR\nVI97fraNnG+FBrJ3qChpURprACk/t/tPmxorE/RKsUaWaxb5wXTiCh5WExs3PBDo\ntRuwAjVdZZ4nGaCFv0qbPPVduIYt/hWfqlnMdq6tHEqfMBJPMs4iU9roSD+HAOl5\nV5PCAdZrmg/xDVDHRmpSUO9nAwKBgQDBMzT7pI2tou0X1ML7+RdVC22287PMkstA\nM84g8YlSZv2Ht1ZWu/RcnJSSi9YFMuYKFvQ/rmfj0RzPUU7t8To7m7Ixau4rOOlj\ntHVk27qvwPVSht1V2YrXEigcM6barrhSqq5VVNt7/AYLe+EduHKCLZq7ZSEmIohp\npSL7WgPCbwKBgAcg0EdAeZhmms1NMo4gR8KwGqHriIKav171IjKG4AMYYS3n2GsQ\nRtG37x9ztNOnAXG8KYlmeKN+OaQORhN6rR1WJCH7ptRcdVpMm9iKHKbFsdev9ykU\n0WuA60rMCf47NQWfc0EaSDRPLy9TtuMZ8qXW+rIec4mmOK2/nj9m4s7TAoGAfEqn\nQWUhyJ1SjsxQDK65dfr+QH8UIv4lSE6Lw+HgCGU9ofwuzWnp0VLiukzACWQvXjpa\nNEXNjGDRegbDEozoe8S0pNo4ExJwA7bq91HtDnjC2q7s4fgsPCTwLQSFyZYx+uzX\nbwpCkccXVHgD4YzyDhGsw/ZRlykMPXsBwFauqH0CgYEAr6nmtxWt+yR7hCpNHSI7\n6gBfihbVouO5BcW5mjPX487o6hrU6SBm8VX+2WAPLMvy+Wdu24lav1G8U5UyQt2u\nrCGzFo1AFQDNDKFNj/OmTpStj0NoBZOZv3jZBpzMzhA8BznD3fq0H503ii6Os7oT\n4aVXWw4nB6XamQy4ZNNoa5I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "apsolde-service@soldemembre.iam.gserviceaccount.com",
+  "client_id": "104835423738460901300",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apsolde-service%40soldemembre.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
