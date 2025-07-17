@@ -1,16 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
-    <title>CKASOLDE Web</title>
     <meta charset="UTF-8">
+    <title>APSOLDE Web</title>
+    <style>
+        body { font-family: Arial; background-color: #ecf3ff; padding: 40px; }
+        input, button { font-size: 1.5em; margin: 10px 0; width: 100%; padding: 10px; }
+        .result { margin-top: 20px; font-size: 1.4em; color: #333; }
+    </style>
 </head>
 <body>
-    <h1>🔍 Vérification de Solde</h1>
-    <form method="post">
-        <input type="text" name="nom" placeholder="🧑 Nom du Membre" required><br><br>
-        <input type="text" name="compte" placeholder="💳 Numéro de Compte (ex: A123456-78)" required><br><br>
-        <input type="submit" value="📤 Vérifier le Solde">
+    <h1>🔍 Vérification du Solde</h1>
+    <form method="POST">
+        <input type="text" name="nom" placeholder="🧑 Nom du Membre" required>
+        <input type="text" name="compte" placeholder="💳 Numéro de Compte (ex: A123456-78)" required>
+        <button type="submit">📤 Vérifier le Solde</button>
     </form>
-    <p>{{ response }}</p>
+    <div class="result">{{ result }}</div>
 </body>
 </html>
