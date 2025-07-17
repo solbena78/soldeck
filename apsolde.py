@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 # 🔐 Authentification Google Sheets
 scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-creds = ServiceAccountCredentials.from_json_keyfile_name('soldemembre-4fb12aff205e.json', scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name('soldemembre-d4a6f64ae23a.json', scope)
 client = gspread.authorize(creds)
 sheet = client.open_by_key('1s4dLGyLKffDQoAdG-T-rGUgKr_rV2wwNpjYqhIudr3Q').worksheet('SOLDE')
 
